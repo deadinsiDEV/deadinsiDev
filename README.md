@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Arda from Turkey<br><br>- 🔭 I’m working as web developer<br>- 📚 I'm currently learning Javascript, LUA, Python<br>- ⚡ In my free time I play FIFA</p>
 
 ###
 
